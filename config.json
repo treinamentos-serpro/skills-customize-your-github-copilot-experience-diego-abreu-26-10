@@ -65,6 +65,13 @@
       "description": "Crie uma API REST com FastAPI para gerenciar tarefas, praticando endpoints, operações CRUD, validação e testes.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-02"
+    },
+    {
+      "id": "python-sqlite-persistence",
+      "title": "Persistência de Dados com SQLite",
+      "description": "Armazene tarefas entre execuções com SQLite e conecte o banco às operações CRUD de uma API FastAPI.",
+      "path": "assignments/python-sqlite-persistence",
+      "dueDate": "2026-11-02"
     }
   ]
 }
